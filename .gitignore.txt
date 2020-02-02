@@ -1,0 +1,4 @@
+/酷Q Air/*
+/dialogues/*
+/ScrapyWeibo.py/*
+/weibo.py
